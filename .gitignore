@@ -1,2 +1,4 @@
 *.net
 *.java
+
+!sixth.java
